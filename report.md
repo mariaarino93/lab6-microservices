@@ -14,6 +14,7 @@
     ![Registration Service](images/TwoMicroservicesEurekaTerminal.JPG)
     
 **3- A second account microservice is running in the port 4444 and it is registered**
+
     Account Service 2 running
    ![Registration Service](images/AccountService2Terminal.JPG)
    ![Registration Service](images/AccountServer2Interfaz.JPG)
