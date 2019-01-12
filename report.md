@@ -1,10 +1,10 @@
 **1- The two microservices are running and registered (two terminals, logs screenshots)**
 
-#####Account Service running
+    Account Service running
    ![Registration Service](images/AccountServiceTerminal.JPG)
    ![Registration Service](images/AccountServerInterfaz.JPG)
     
-#####Web Service running
+    Web Service running
    ![Registration Service](images/WebServiceTerminal.JPG)
    ![Registration Service](images/WebServiceInterfaz.JPG)
        
@@ -14,11 +14,11 @@
     ![Registration Service](images/TwoMicroservicesEurekaTerminal.JPG)
     
 **3- A second account microservice is running in the port 4444 and it is registered**
-#####Account Service 2 running
+    Account Service 2 running
    ![Registration Service](images/AccountService2Terminal.JPG)
    ![Registration Service](images/AccountServer2Interfaz.JPG)
     
-#####Account Service 2 registered
+    Account Service 2 registered
    ![Registration Service](images/TwoMicroservicesEureka2.JPG)
     
 **4- A brief report describing what happens when you kill the microservice with port 2222. Can the web service provide information about the accounts? Why?**   
